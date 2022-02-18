@@ -1,0 +1,187 @@
+sales_id,date,time,shopping_cart,price,parcel_size,Customer_lat,Customer_long,isLoyaltyProgram,nearest_storehouse_id,nearest_storehouse,dist_to_nearest_storehouse,delivery_cost
+ORD0094508,05/08/2018,10:57:44,"[('mattress', 2), ('Dining_table', 3), ('side_table', 4), ('Chair', 1), ('wardrobe', 3)]",2405.66,medium,-38.20312,146.04112,0,4,Sunshine,107.96,6.4845000000000015
+ORD0092039,10/05/2021,04:43:14,"[('bed', 2), ('mattress', 4), ('wardrobe', 2), ('sofa', 2), ('side_table', 2), ('Dining_table', 3), ('Study_table', 1)]",4391.67,large,-37.94113,144.86085,0,2,Footscray,18.75,18.2295
+ORD0019216,16/04/2021,12:40:40,"[('Chair', 2), ('bed', 4), ('mattress', 4), ('wardrobe', 1), ('Study_table', 1), ('Dining_table', 2), ('sofa', 2), ('side_table', 4)]",5042.33,large,-38.46703,145.12492,0,4,Sunshine,75.01,6.772500000000001
+ORD0033742,01/06/2018,08:23:35,"[('Study_table', 2), ('side_table', 1), ('wardrobe', 1)]",475.85,small,-38.05737,145.2257,0,4,Sunshine,38.6,7.0515
+ORD0026963,16/01/2020,03:55:45,"[('sofa', 4), ('Chair', 2), ('wardrobe', 4), ('Study_table', 2)]",2808.02,small,-38.32542,144.98037,1,2,Footscray,57.33,16.384500000000006
+ORD0046975,04/04/2021,15:02:37,"[('mattress', 3), ('Dining_table', 1), ('sofa', 1), ('bed', 2), ('side_table', 4), ('Study_table', 2)]",2970.0,medium,-38.25523,145.34428,1,4,Sunshine,61.99,29.727500000000006
+ORD0046158,16/11/2020,14:44:52,"[('Dining_table', 3), ('bed', 3), ('wardrobe', 4), ('side_table', 3), ('Study_table', 2)]",2895.95,medium,-37.69362,145.14985,1,4,Sunshine,24.76,6.2865
+ORD0031263,14/07/2020,17:24:26,"[('side_table', 2), ('Dining_table', 3), ('mattress', 2)]",1370.8,small,-38.01317,144.56524,0,2,Footscray,43.97,17.590500000000002
+ORD0036821,03/05/2020,21:41:50,"[('bed', 2), ('Dining_table', 2), ('Study_table', 4), ('Chair', 4), ('side_table', 2), ('sofa', 3), ('mattress', 3)]",4159.42,large,-37.81217,145.61701000000002,0,4,Sunshine,61.89,7.0605
+ORD0039667,07/09/2019,20:32:49,"[('Chair', 2), ('Dining_table', 4), ('bed', 1), ('wardrobe', 2), ('Study_table', 4), ('sofa', 1), ('mattress', 2), ('side_table', 3)]",3281.92,large,-38.03904,145.36444,0,4,Sunshine,46.91,6.2505000000000015
+ORD0058207,12/05/2018,21:45:45,"[('wardrobe', 3), ('Dining_table', 1), ('mattress', 3), ('sofa', 2), ('Study_table', 2), ('bed', 2), ('side_table', 3)]",4105.3,large,-37.52928,146.08493,1,4,Sunshine,107.92,7.339499999999999
+ORD0084275,14/11/2019,06:16:36,"[('mattress', 3), ('Dining_table', 1), ('bed', 4)]",3050.57,small,-37.49199,144.99594,0,4,Sunshine,36.5,5.7105
+ORD0089713,08/09/2019,13:51:11,"[('Study_table', 1), ('side_table', 1), ('Chair', 1), ('bed', 3)]",1356.9,small,-38.19385,144.57202,0,2,Footscray,56.54,18.211500000000004
+ORD0008319,25/12/2019,02:48:14,"[('Study_table', 3), ('Dining_table', 1), ('Chair', 2), ('side_table', 1), ('wardrobe', 3), ('bed', 3), ('mattress', 1), ('sofa', 4)]",4374.47,large,-37.93031,146.05088,0,4,Sunshine,100.76,6.6015000000000015
+ORD0088790,30/04/2019,12:13:49,"[('sofa', 2), ('side_table', 3), ('bed', 4), ('Chair', 1), ('wardrobe', 2), ('mattress', 3)]",4422.88,medium,-38.07108,145.93361000000002,1,4,Sunshine,94.01,7.0515
+ORD0027984,16/08/2019,07:13:18,"[('side_table', 4), ('sofa', 4), ('wardrobe', 4), ('Chair', 2)]",2863.84,small,-37.96974,146.05194,1,4,Sunshine,101.49,7.267499999999999
+ORD0061992,15/09/2019,21:19:39,"[('mattress', 4), ('wardrobe', 4), ('bed', 3), ('Dining_table', 3)]",4486.56,small,-37.408640000000005,144.94937,1,0,Clayton,45.62,18.054000000000002
+ORD0042254,18/04/2018,12:01:40,"[('bed', 1), ('Chair', 2), ('sofa', 1), ('Study_table', 3), ('side_table', 2)]",1215.68,medium,-37.90871,145.70325,1,4,Sunshine,70.22,6.0075
+ORD0014388,06/08/2021,23:09:38,"[('sofa', 1), ('side_table', 3), ('mattress', 4)]",2373.78,small,-38.20431,144.8605,0,2,Footscray,45.41,17.5455
+ORD0001057,10/06/2019,23:36:17,"[('Chair', 1), ('Dining_table', 4), ('Study_table', 3), ('bed', 2), ('sofa', 2), ('wardrobe', 1)]",2468.15,medium,-37.69032,144.59528,0,2,Footscray,37.6,17.4735
+ORD0005440,03/05/2020,19:16:39,"[('wardrobe', 4), ('mattress', 3), ('sofa', 4), ('Chair', 3), ('Study_table', 1), ('side_table', 1)]",4288.51,medium,-37.58506,144.96806,1,0,Clayton,25.97,16.542
+ORD0022287,24/06/2020,16:58:07,"[('mattress', 2), ('Dining_table', 3), ('Study_table', 1)]",1342.89,small,-37.77769,144.84753999999998,1,2,Footscray,13.47,18.355500000000006
+ORD0039132,12/03/2018,18:51:52,"[('Chair', 2), ('sofa', 1), ('wardrobe', 1), ('side_table', 4), ('Study_table', 3), ('Dining_table', 4)]",1653.82,medium,-37.65587,146.05404,0,4,Sunshine,101.9,6.1065000000000005
+ORD0095815,05/10/2021,02:51:20,"[('wardrobe', 2), ('sofa', 1), ('Dining_table', 3)]",1232.01,small,-38.13701,145.58643999999998,1,4,Sunshine,69.16,6.160500000000001
+ORD0049835,11/02/2018,07:23:11,"[('bed', 2), ('mattress', 2), ('Dining_table', 4)]",2144.3,small,-38.36789,145.97468,0,4,Sunshine,111.54,6.1335000000000015
+ORD0038920,29/07/2020,07:15:01,"[('wardrobe', 4), ('Dining_table', 3), ('mattress', 3), ('bed', 3), ('Chair', 4), ('Study_table', 1)]",4444.24,medium,-37.857079999999996,145.32707,0,4,Sunshine,36.73,5.6835
+ORD0081903,07/05/2019,00:44:17,"[('Study_table', 3), ('sofa', 2), ('wardrobe', 2), ('side_table', 1)]",1508.74,small,-37.45624,145.90246000000002,1,4,Sunshine,95.8,7.4834999999999985
+ORD0044281,11/01/2019,04:06:40,"[('sofa', 1), ('side_table', 2), ('bed', 1), ('Chair', 4), ('mattress', 3)]",2591.44,medium,-38.324329999999996,145.40367,0,4,Sunshine,71.24,5.629500000000001
+ORD0004360,14/03/2019,13:12:55,"[('Chair', 3), ('sofa', 4), ('mattress', 1)]",2096.67,small,-38.28843,146.00485,0,4,Sunshine,109.26,5.9715
+ORD0067238,24/08/2020,08:15:51,"[('wardrobe', 2), ('Dining_table', 4), ('Study_table', 2), ('bed', 3), ('Chair', 1), ('sofa', 2), ('mattress', 1), ('side_table', 4)]",3730.91,large,-38.221709999999995,144.45515,1,2,Footscray,65.84,17.680500000000006
+ORD0065306,24/09/2020,01:55:58,"[('Chair', 3), ('side_table', 3), ('mattress', 2), ('bed', 4), ('sofa', 4), ('Dining_table', 1), ('Study_table', 3), ('wardrobe', 2)]",5134.68,large,-37.804390000000005,144.59861999999998,0,2,Footscray,34.85,17.725500000000004
+ORD0070570,01/08/2019,16:28:59,"[('side_table', 1), ('bed', 3), ('Dining_table', 3), ('mattress', 3)]",2937.72,small,-37.73687,145.87958999999998,1,4,Sunshine,85.42,6.9255
+ORD0008056,12/09/2018,04:39:48,"[('mattress', 4), ('Chair', 4), ('side_table', 1), ('sofa', 1)]",2630.68,small,-38.41782,145.10168000000002,1,4,Sunshine,69.21,5.7645
+ORD0022896,30/11/2018,07:52:20,"[('wardrobe', 4), ('Study_table', 1), ('side_table', 2), ('bed', 4)]",2827.25,small,-37.68007,146.13095,1,4,Sunshine,108.15,6.682500000000001
+ORD0093443,30/10/2018,07:24:52,"[('Chair', 3), ('side_table', 3), ('wardrobe', 3), ('Study_table', 4), ('mattress', 4), ('sofa', 3)]",4454.08,medium,-37.80605,144.57029,0,2,Footscray,37.33,18.364500000000003
+ORD0031749,24/01/2018,17:16:42,"[('wardrobe', 1), ('sofa', 3), ('Study_table', 4), ('mattress', 4), ('side_table', 4), ('Dining_table', 3)]",4001.27,medium,-37.75397,145.56703000000002,0,4,Sunshine,57.9,5.791500000000001
+ORD0009080,25/09/2018,02:53:20,"[('side_table', 4), ('sofa', 4), ('mattress', 4), ('bed', 1), ('Dining_table', 3)]",4152.8,medium,-37.75243,144.778,0,2,Footscray,20.14,18.2295
+ORD0060869,29/10/2018,18:24:54,"[('wardrobe', 3), ('side_table', 3), ('bed', 2), ('mattress', 2), ('sofa', 3), ('Chair', 2)]",3898.54,medium,-37.804520000000004,145.93711000000002,1,4,Sunshine,90.02,7.2225
+ORD0090218,20/10/2018,21:12:38,"[('side_table', 3), ('Dining_table', 3), ('Chair', 3)]",746.13,small,-37.56539,145.47624,1,4,Sunshine,56.76,6.3045
+ORD0088167,31/10/2019,08:01:15,"[('mattress', 4), ('sofa', 2), ('Dining_table', 1), ('wardrobe', 2)]",3236.82,small,-38.1395,145.96624,1,4,Sunshine,99.22,7.1865000000000006
+ORD0018440,30/08/2018,13:33:01,"[('Study_table', 1), ('wardrobe', 2), ('sofa', 4), ('Chair', 1), ('mattress', 1), ('side_table', 4)]",2753.9,medium,-38.18025,145.67172,0,4,Sunshine,78.03,6.4935
+ORD0069033,05/04/2020,02:22:07,"[('Study_table', 2), ('Dining_table', 2), ('Chair', 1), ('sofa', 1)]",791.79,small,-37.497820000000004,144.71041,0,2,Footscray,42.82,18.5895
+ORD0051321,03/11/2021,07:58:34,"[('bed', 3), ('mattress', 3), ('wardrobe', 4), ('Study_table', 4)]",3974.73,small,-38.12947,144.47134,0,2,Footscray,58.06,18.238500000000005
+ORD0063886,01/05/2019,18:45:41,"[('Study_table', 1), ('Chair', 2), ('wardrobe', 4), ('sofa', 1), ('Dining_table', 3), ('mattress', 2), ('side_table', 3)]",3138.31,large,-38.390570000000004,145.92524,1,4,Sunshine,109.41,6.3315
+ORD0069428,08/01/2018,07:10:57,"[('wardrobe', 4), ('mattress', 1), ('sofa', 1)]",1938.28,small,-37.87194,144.5352,1,2,Footscray,40.98,17.8065
+ORD0042997,22/11/2021,02:16:54,"[('Dining_table', 2), ('mattress', 4), ('wardrobe', 2), ('Study_table', 3)]",2883.37,small,-37.84752,145.61831,0,4,Sunshine,62.1,6.0435
+ORD0005850,06/03/2021,01:38:37,"[('Study_table', 3), ('side_table', 2), ('mattress', 4), ('Dining_table', 3), ('bed', 4), ('wardrobe', 2)]",4620.51,medium,-38.27799,146.00883000000002,1,4,Sunshine,109.01,7.2225
+ORD0048099,14/03/2018,00:34:26,"[('Dining_table', 4), ('sofa', 2), ('mattress', 2), ('wardrobe', 1), ('Chair', 2), ('side_table', 1)]",2569.71,medium,-38.15425,144.58776,1,2,Footscray,52.35,18.6705
+ORD0019633,18/06/2021,15:14:02,"[('Chair', 1), ('wardrobe', 3), ('Dining_table', 2)]",1154.08,small,-38.452329999999996,145.76355,1,4,Sunshine,102.89,7.3035
+ORD0017388,02/06/2019,09:01:13,"[('side_table', 2), ('wardrobe', 3), ('sofa', 4), ('Study_table', 3), ('mattress', 4)]",4404.03,medium,-37.67181,145.42158999999998,1,4,Sunshine,47.46,6.9435
+ORD0089095,19/12/2018,17:06:38,"[('sofa', 2), ('wardrobe', 3), ('Study_table', 4), ('Chair', 3)]",2080.3,small,-37.6009,144.69901000000002,0,2,Footscray,34.92,17.7525
+ORD0074116,23/01/2020,05:25:50,"[('Dining_table', 4), ('Study_table', 1), ('side_table', 1), ('mattress', 3), ('wardrobe', 2), ('sofa', 1)]",2876.84,medium,-37.62918,144.47762,0,2,Footscray,49.77,16.8705
+ORD0019734,16/11/2019,01:03:53,"[('Study_table', 2), ('wardrobe', 3), ('bed', 1), ('Chair', 1), ('mattress', 3)]",2874.19,medium,-37.9093,144.44903,1,2,Footscray,49.21,18.976500000000005
+ORD0000997,18/09/2019,01:38:32,"[('wardrobe', 2), ('Study_table', 2), ('Dining_table', 4), ('sofa', 4), ('bed', 2)]",3267.86,medium,-37.73561,144.69495,1,2,Footscray,27.66,17.554500000000004
+ORD0052110,25/08/2019,17:56:58,"[('Chair', 4), ('sofa', 4), ('wardrobe', 4), ('Dining_table', 3), ('mattress', 3), ('Study_table', 3)]",4800.42,medium,-37.99518,145.10505,0,4,Sunshine,26.33,7.060500000000001
+ORD0002102,29/01/2021,09:27:08,"[('mattress', 3), ('Study_table', 3), ('sofa', 2)]",2308.28,small,-38.119479999999996,145.48924,0,4,Sunshine,60.94,6.448500000000001
+ORD0059861,08/08/2019,06:39:43,"[('bed', 3), ('mattress', 1), ('sofa', 1), ('Dining_table', 4)]",2394.6,small,-38.21125,145.26755,1,4,Sunshine,54.07,6.3405000000000005
+ORD0095491,20/02/2020,22:13:51,"[('sofa', 2), ('side_table', 3), ('Chair', 4), ('Dining_table', 3)]",1514.31,small,-37.77605,144.95313000000002,0,4,Sunshine,5.49,6.4845000000000015
+ORD0085884,26/05/2019,10:43:09,"[('Study_table', 2), ('mattress', 2), ('wardrobe', 4), ('sofa', 4)]",3571.84,small,-38.01867,145.97483,1,4,Sunshine,95.94,6.916500000000001
+ORD0059555,25/01/2021,00:40:54,"[('sofa', 4), ('Study_table', 1), ('bed', 2), ('wardrobe', 3), ('Dining_table', 1), ('mattress', 2), ('Chair', 2), ('side_table', 3)]",4419.58,large,-38.35586,144.46543,0,2,Footscray,76.38,16.924500000000002
+ORD0047921,16/06/2020,04:18:49,"[('Dining_table', 3), ('Chair', 1), ('sofa', 1), ('Study_table', 3), ('mattress', 4), ('wardrobe', 4)]",3985.46,medium,-38.45923,144.76084,0,2,Footscray,75.05,18.445500000000006
+ORD0091989,04/06/2020,15:29:20,"[('sofa', 2), ('Dining_table', 4), ('bed', 2)]",1881.06,small,-37.556470000000004,146.00338,1,4,Sunshine,100.16,6.2685
+ORD0077615,14/01/2018,04:43:58,"[('mattress', 3), ('Study_table', 2), ('Chair', 3), ('bed', 4)]",3352.59,small,-38.42092,144.65495,0,2,Footscray,74.17,17.320500000000006
+ORD0088836,27/08/2021,02:10:27,"[('Chair', 1), ('wardrobe', 2), ('mattress', 1), ('bed', 2), ('side_table', 3), ('Study_table', 2), ('Dining_table', 3)]",2510.5,large,-38.19373,145.96471,0,4,Sunshine,101.42,6.1065000000000005
+ORD0074304,24/01/2019,10:25:11,"[('sofa', 1), ('Study_table', 4), ('mattress', 1), ('bed', 1), ('side_table', 3), ('Chair', 3)]",1897.93,medium,-37.59169,145.45016999999999,1,4,Sunshine,53.35,6.304500000000001
+ORD0095203,27/11/2020,19:48:25,"[('wardrobe', 4), ('mattress', 4), ('Chair', 4), ('Dining_table', 3)]",3697.6,small,-38.14177,145.8503,1,4,Sunshine,89.94,7.4834999999999985
+ORD0053682,18/04/2019,05:07:52,"[('Study_table', 2), ('sofa', 2), ('bed', 3), ('Dining_table', 4), ('Chair', 2), ('wardrobe', 1)]",2867.28,medium,-38.2592,145.49819,0,4,Sunshine,71.32,7.1325
+ORD0089582,01/06/2021,10:54:22,"[('side_table', 2), ('Study_table', 2), ('Chair', 2), ('Dining_table', 1), ('bed', 4)]",2059.52,medium,-38.33936,145.93303,0,4,Sunshine,106.76,6.1335000000000015
+ORD0081500,08/05/2018,02:42:15,"[('side_table', 2), ('Chair', 4), ('Study_table', 3), ('mattress', 4), ('wardrobe', 4), ('bed', 3), ('sofa', 3), ('Dining_table', 3)]",6177.7,large,-37.613409999999995,145.43814,0,4,Sunshine,51.31,5.7915
+ORD0058683,19/12/2018,01:18:44,"[('mattress', 3), ('Chair', 2), ('side_table', 2), ('sofa', 2), ('Study_table', 2)]",2514.59,medium,-37.77132,144.98893,1,4,Sunshine,8.19,6.295500000000001
+ORD0075056,08/09/2019,06:22:25,"[('side_table', 3), ('sofa', 4), ('mattress', 4), ('Dining_table', 1), ('Chair', 1)]",3591.01,medium,-37.73149,144.95596,1,4,Sunshine,9.89,7.1685
+ORD0076762,02/04/2021,05:46:32,"[('wardrobe', 3), ('bed', 2), ('Dining_table', 4), ('Chair', 4), ('sofa', 1), ('side_table', 3), ('Study_table', 2), ('mattress', 2)]",3980.18,large,-38.42403,145.43226,1,4,Sunshine,81.71,6.1785000000000005
+ORD0084171,15/04/2018,11:43:26,"[('sofa', 1), ('Chair', 2), ('side_table', 3), ('bed', 4), ('Dining_table', 2), ('Study_table', 3), ('mattress', 3)]",4043.84,large,-37.87429,144.78641000000002,1,2,Footscray,19.68,17.6805
+ORD0094093,21/04/2019,14:26:14,"[('sofa', 4), ('side_table', 3), ('bed', 3)]",2653.57,small,-38.000640000000004,145.59611,1,4,Sunshine,63.48,6.1605
+ORD0004252,07/08/2021,15:51:25,"[('Dining_table', 2), ('Study_table', 3), ('mattress', 3), ('wardrobe', 4), ('sofa', 2), ('side_table', 1), ('bed', 2)]",4468.87,large,-38.22215,145.93832,0,4,Sunshine,100.7,6.1785000000000005
+ORD0064170,18/04/2021,04:34:33,"[('side_table', 4), ('mattress', 1), ('Study_table', 3), ('bed', 1), ('wardrobe', 3), ('Dining_table', 2), ('Chair', 2)]",2512.08,large,-37.47976,145.61889,0,4,Sunshine,72.42,7.0155
+ORD0012143,13/03/2021,01:31:35,"[('Dining_table', 2), ('sofa', 2), ('Chair', 2), ('Study_table', 1), ('wardrobe', 3), ('mattress', 1)]",2465.36,medium,-38.414970000000004,145.28922,1,4,Sunshine,74.56,5.7375
+ORD0010699,22/02/2021,21:08:47,"[('Dining_table', 3), ('sofa', 2), ('bed', 3), ('Chair', 1), ('side_table', 2), ('Study_table', 4), ('mattress', 1), ('wardrobe', 1)]",3383.51,large,-38.00671,145.61744,0,4,Sunshine,65.47,5.5935000000000015
+ORD0079130,22/02/2019,15:30:19,"[('Chair', 3), ('Dining_table', 3), ('bed', 2)]",1360.12,small,-38.0422,144.99338999999998,0,4,Sunshine,26.4,6.9525000000000015
+ORD0041338,17/06/2020,22:41:29,"[('mattress', 3), ('wardrobe', 3), ('Dining_table', 3), ('Chair', 2), ('sofa', 2)]",3445.15,medium,-38.12605,144.83113,0,2,Footscray,37.97,18.2385
+ORD0075972,18/03/2021,05:20:54,"[('sofa', 1), ('wardrobe', 4), ('mattress', 4), ('Chair', 1), ('bed', 4), ('Dining_table', 2), ('Study_table', 1), ('side_table', 1)]",5309.55,large,-37.80102,145.04587,0,4,Sunshine,11.8,6.3135
+ORD0070602,24/05/2018,10:30:29,"[('wardrobe', 4), ('Study_table', 3), ('Chair', 4), ('side_table', 4), ('sofa', 1), ('Dining_table', 2), ('mattress', 1), ('bed', 2)]",3693.81,large,-37.86957,144.46866,1,2,Footscray,46.71,17.9415
+ORD0061619,28/04/2019,17:27:34,"[('wardrobe', 1), ('bed', 1), ('sofa', 1), ('Dining_table', 4), ('side_table', 1)]",1491.52,medium,-37.97554,145.47883000000002,0,4,Sunshine,52.86,5.9445000000000014
+ORD0006325,14/10/2020,18:42:21,"[('bed', 3), ('Study_table', 4), ('Dining_table', 1), ('sofa', 2), ('side_table', 3), ('mattress', 1), ('wardrobe', 2), ('Chair', 4)]",3763.86,large,-38.18631,144.99853000000002,0,4,Sunshine,42.13,6.6375
+ORD0094991,07/04/2019,09:51:31,"[('sofa', 2), ('Chair', 4), ('Study_table', 3)]",1251.75,small,-37.51059,144.52897,1,2,Footscray,52.85,18.5265
+ORD0064495,06/07/2019,01:18:22,"[('mattress', 3), ('sofa', 3), ('wardrobe', 1)]",2713.72,small,-37.51795,145.70004,1,4,Sunshine,76.72,5.6655
+ORD0048804,04/08/2019,13:15:54,"[('Dining_table', 2), ('bed', 1), ('sofa', 4), ('wardrobe', 1), ('Chair', 3)]",2508.52,medium,-37.975429999999996,144.52462,1,2,Footscray,45.21,18.076500000000006
+ORD0094813,23/08/2021,10:13:51,"[('sofa', 1), ('Chair', 2), ('mattress', 1), ('side_table', 2), ('wardrobe', 2), ('Dining_table', 2), ('bed', 3)]",3017.62,large,-38.22413,145.09056,1,4,Sunshine,48.25,7.132500000000001
+ORD0035101,08/11/2020,04:32:17,"[('Chair', 2), ('bed', 1), ('side_table', 4), ('wardrobe', 4), ('mattress', 3), ('sofa', 1)]",3640.62,medium,-37.55522,145.92485,1,4,Sunshine,93.6,6.610500000000001
+ORD0018033,20/02/2018,02:38:59,"[('mattress', 1), ('Dining_table', 4), ('Study_table', 3), ('wardrobe', 1), ('Chair', 3), ('side_table', 3)]",1824.69,medium,-38.0194,145.2238,1,4,Sunshine,35.64,5.4045000000000005
+ORD0001492,12/04/2021,10:00:23,"[('Chair', 1), ('bed', 3), ('Dining_table', 1), ('Study_table', 2), ('wardrobe', 3), ('sofa', 3), ('side_table', 4)]",3552.53,large,-38.43955,145.30421,0,4,Sunshine,77.59,6.2505000000000015
+ORD0051505,17/04/2019,17:44:49,"[('Chair', 3), ('bed', 1), ('wardrobe', 3), ('Dining_table', 4), ('mattress', 4), ('Study_table', 1), ('sofa', 3)]",4908.42,large,-37.83088,144.87335,1,2,Footscray,10.95,17.9505
+ORD0054022,10/02/2021,12:55:56,"[('bed', 4), ('side_table', 2), ('mattress', 2), ('Study_table', 4)]",2857.76,small,-38.19312,144.49577,0,2,Footscray,61.07,16.222500000000004
+ORD0086880,04/12/2019,10:11:12,"[('wardrobe', 2), ('mattress', 2), ('Study_table', 3), ('bed', 1), ('Dining_table', 3), ('Chair', 2)]",2611.03,medium,-38.09594,145.92533,1,4,Sunshine,94.19,5.575500000000001
+ORD0059453,05/08/2021,21:04:11,"[('wardrobe', 4), ('sofa', 3), ('Study_table', 3), ('side_table', 2)]",2462.02,small,-37.86696,145.39593,1,4,Sunshine,42.87,6.610500000000001
+ORD0070823,20/08/2019,03:59:22,"[('wardrobe', 1), ('Study_table', 2), ('mattress', 2), ('sofa', 4), ('Chair', 2), ('bed', 2)]",3668.32,medium,-38.06191,144.54546000000002,0,2,Footscray,48.38,18.4095
+ORD0055533,20/10/2018,08:18:00,"[('wardrobe', 3), ('Study_table', 2), ('Chair', 2), ('bed', 4), ('side_table', 2)]",2795.72,medium,-38.180240000000005,145.43751,1,4,Sunshine,61.48,7.348500000000001
+ORD0093765,01/05/2018,16:52:49,"[('Study_table', 2), ('bed', 3), ('Dining_table', 4), ('Chair', 4), ('mattress', 1), ('side_table', 3), ('wardrobe', 2)]",3269.58,large,-38.0699,144.85682,1,2,Footscray,31.35,19.2825
+ORD0027192,26/12/2020,07:05:58,"[('side_table', 1), ('Dining_table', 1), ('sofa', 4), ('Study_table', 1), ('mattress', 1), ('Chair', 3), ('bed', 2), ('wardrobe', 1)]",3373.93,large,-38.35191,145.97558,0,4,Sunshine,110.64,6.979500000000002
+ORD0096240,17/02/2018,19:38:07,"[('side_table', 1), ('wardrobe', 1), ('Study_table', 1), ('bed', 4), ('Dining_table', 3), ('sofa', 1)]",2599.71,medium,-37.61031,146.17428999999998,1,4,Sunshine,113.27,5.467500000000001
+ORD0026188,28/01/2019,01:56:36,"[('Dining_table', 1), ('bed', 2), ('wardrobe', 2), ('sofa', 3), ('Study_table', 1)]",2527.7,medium,-38.264070000000004,145.38201999999998,1,4,Sunshine,64.81,6.799500000000001
+ORD0018455,20/09/2021,07:13:06,"[('Dining_table', 3), ('Study_table', 1), ('bed', 2), ('mattress', 2)]",2106.73,small,-38.21907,145.21661,0,4,Sunshine,52.38,6.088500000000002
+ORD0031266,13/10/2019,09:31:37,"[('bed', 2), ('sofa', 1), ('Study_table', 4), ('Dining_table', 2), ('mattress', 4), ('Chair', 2), ('wardrobe', 2)]",4237.09,large,-37.98445,145.20247,0,4,Sunshine,31.76,6.2865
+ORD0062452,13/03/2018,10:32:51,"[('bed', 4), ('side_table', 2), ('Chair', 4), ('Study_table', 1), ('Dining_table', 2), ('sofa', 2), ('mattress', 2), ('wardrobe', 3)]",4742.45,large,-37.8458,144.88683,0,2,Footscray,10.32,18.8775
+ORD0051792,20/03/2018,09:34:41,"[('sofa', 3), ('wardrobe', 3), ('mattress', 3), ('Study_table', 2), ('Chair', 3), ('side_table', 1), ('bed', 1)]",4121.01,large,-38.10843,145.1908,0,4,Sunshine,40.88,5.7285
+ORD0066024,18/05/2021,21:46:49,"[('side_table', 3), ('Chair', 3), ('wardrobe', 3), ('Dining_table', 1), ('mattress', 3), ('sofa', 1), ('Study_table', 1), ('bed', 4)]",4725.26,large,-37.954229999999995,144.49161999999998,0,2,Footscray,47.02,18.2385
+ORD0090627,13/11/2021,06:10:37,"[('mattress', 3), ('Dining_table', 1), ('bed', 2), ('Chair', 1), ('Study_table', 1), ('sofa', 2), ('wardrobe', 4), ('side_table', 3)]",4404.43,large,-38.4453,144.72503999999998,0,2,Footscray,74.49,17.995500000000003
+ORD0080335,28/10/2018,15:15:11,"[('side_table', 2), ('Study_table', 3), ('bed', 1), ('Chair', 3), ('Dining_table', 2)]",1184.51,medium,-38.23451,145.24676000000002,0,4,Sunshine,55.22,6.5475
+ORD0048717,30/06/2020,14:44:08,"[('Dining_table', 3), ('wardrobe', 4), ('Study_table', 1)]",1528.35,small,-37.42484,144.97634,0,0,Clayton,43.79,16.812
+ORD0092130,02/01/2019,23:23:52,"[('side_table', 2), ('wardrobe', 4), ('Study_table', 3), ('bed', 2)]",2207.39,small,-38.26086,144.91087,0,2,Footscray,50.68,16.6005
+ORD0077965,28/05/2020,04:00:32,"[('sofa', 2), ('side_table', 1), ('mattress', 4)]",2613.37,small,-37.88994,145.97101,1,4,Sunshine,93.32,5.8545
+ORD0002951,24/02/2018,16:58:57,"[('side_table', 3), ('sofa', 2), ('Chair', 3), ('Dining_table', 2), ('bed', 2), ('mattress', 1), ('Study_table', 1), ('wardrobe', 4)]",3750.17,large,-38.16738,144.70771000000002,0,2,Footscray,47.05,17.788500000000006
+ORD0015406,15/10/2018,16:22:10,"[('side_table', 2), ('bed', 3), ('mattress', 2), ('Chair', 4), ('wardrobe', 3), ('Study_table', 1), ('sofa', 3), ('Dining_table', 3)]",4809.58,large,-37.703340000000004,145.75856000000002,0,4,Sunshine,75.38,6.2145
+ORD0097254,12/03/2018,14:13:53,"[('sofa', 3), ('Chair', 2), ('mattress', 3), ('side_table', 1), ('Study_table', 3), ('Dining_table', 1)]",2985.68,medium,-37.478629999999995,145.04833,1,4,Sunshine,39.11,6.1245
+ORD0097203,03/11/2018,19:18:49,"[('wardrobe', 4), ('Dining_table', 3), ('Chair', 1), ('sofa', 1)]",1885.05,small,-38.47312,145.48592,0,4,Sunshine,88.85,5.8725000000000005
+ORD0083562,03/10/2021,06:24:06,"[('Dining_table', 1), ('wardrobe', 3), ('mattress', 4), ('Chair', 1), ('Study_table', 1), ('sofa', 3), ('side_table', 3), ('bed', 1)]",4551.19,large,-38.16527,146.06312,0,4,Sunshine,108.15,6.8085
+ORD0057417,19/11/2020,10:21:08,"[('mattress', 4), ('Chair', 1), ('Dining_table', 1), ('bed', 4), ('Study_table', 3)]",3826.85,medium,-37.58447,145.67296000000002,0,4,Sunshine,71.59,6.394500000000002
+ORD0051192,19/10/2019,23:23:38,"[('bed', 1), ('mattress', 4), ('Chair', 4), ('Dining_table', 4), ('wardrobe', 3), ('sofa', 4)]",5265.12,medium,-38.115120000000005,145.71573,1,4,Sunshine,77.99,7.3215
+ORD0021363,10/04/2019,08:03:04,"[('Chair', 1), ('Study_table', 2), ('mattress', 4), ('sofa', 1), ('side_table', 3)]",2606.96,medium,-37.41004,145.50867,0,4,Sunshine,69.07,6.1245
+ORD0021671,09/05/2021,12:55:50,"[('side_table', 2), ('wardrobe', 1), ('Dining_table', 2), ('mattress', 2), ('sofa', 3), ('Study_table', 4), ('Chair', 2)]",3027.99,large,-37.872820000000004,145.80897,1,4,Sunshine,78.99,6.916500000000001
+ORD0069583,02/10/2018,19:52:37,"[('sofa', 2), ('bed', 4), ('Chair', 3), ('mattress', 1), ('Study_table', 1), ('wardrobe', 4), ('side_table', 4)]",4344.84,large,-37.83566,145.43806999999998,0,4,Sunshine,46.23,6.0615000000000006
+ORD0020126,29/06/2018,14:34:43,"[('Study_table', 4), ('side_table', 3), ('wardrobe', 4), ('Dining_table', 2), ('mattress', 3), ('sofa', 4), ('bed', 2), ('Chair', 3)]",5587.34,large,-38.18347,145.86623,0,4,Sunshine,93.15,5.7825000000000015
+ORD0015888,10/03/2021,11:39:47,"[('sofa', 4), ('wardrobe', 4), ('Chair', 3), ('mattress', 2), ('Dining_table', 2), ('bed', 2)]",4678.42,medium,-38.28869,144.66109,1,2,Footscray,60.74,19.201500000000006
+ORD0026286,15/06/2018,02:39:10,"[('wardrobe', 1), ('Chair', 4), ('Study_table', 1), ('bed', 3)]",1856.47,small,-37.65586,144.50724,0,2,Footscray,46.21,17.896500000000003
+ORD0070222,26/10/2021,17:42:32,"[('mattress', 1), ('Dining_table', 1), ('bed', 1)]",962.59,small,-38.29672,145.03353,1,4,Sunshine,54.77,6.916500000000001
+ORD0042462,16/02/2020,05:40:07,"[('sofa', 4), ('side_table', 3), ('Chair', 2), ('wardrobe', 2), ('mattress', 1), ('Dining_table', 1)]",2830.72,medium,-37.95395,145.85308999999998,0,4,Sunshine,84.01,5.2425000000000015
+ORD0008355,05/10/2020,16:26:25,"[('bed', 1), ('mattress', 3), ('side_table', 3), ('Study_table', 4), ('Dining_table', 2)]",2452.18,medium,-37.59344,145.34638,1,4,Sunshine,45.34,5.7015
+ORD0016224,03/09/2020,01:13:15,"[('Study_table', 3), ('sofa', 1), ('Dining_table', 4)]",993.7,small,-38.33736,145.52215,1,4,Sunshine,79.0,6.277500000000002
+ORD0003307,01/08/2018,19:23:09,"[('bed', 4), ('side_table', 3), ('sofa', 1), ('mattress', 4), ('Dining_table', 3), ('Chair', 3)]",4497.74,medium,-38.489470000000004,145.27676,0,4,Sunshine,81.63,5.6115
+ORD0094941,18/04/2019,19:34:16,"[('sofa', 3), ('Chair', 3), ('Dining_table', 1), ('bed', 3), ('mattress', 1)]",3012.5,medium,-38.34142,146.15091999999999,1,4,Sunshine,123.27,6.9795
+ORD0093252,23/03/2018,02:26:05,"[('wardrobe', 1), ('Study_table', 2), ('Chair', 3)]",693.5,small,-38.31244,145.80274,0,4,Sunshine,95.67,5.7285
+ORD0097289,20/09/2021,02:43:16,"[('bed', 4), ('sofa', 4), ('wardrobe', 1), ('Chair', 3), ('side_table', 4)]",3634.96,medium,-37.81876,144.84364,0,2,Footscray,13.35,18.967500000000005
+ORD0034742,08/09/2021,05:34:02,"[('side_table', 4), ('Chair', 4), ('mattress', 4), ('wardrobe', 3), ('bed', 1), ('Study_table', 3)]",3884.69,medium,-37.74987,145.62142,1,4,Sunshine,62.7,5.9265
+ORD0012444,10/12/2019,11:10:16,"[('Study_table', 4), ('sofa', 4), ('bed', 2), ('side_table', 2), ('Dining_table', 1)]",2619.22,medium,-38.01035,144.49501999999998,0,2,Footscray,49.21,17.608500000000006
+ORD0063082,21/10/2019,06:30:18,"[('mattress', 2), ('wardrobe', 2), ('side_table', 4), ('sofa', 2), ('Chair', 4), ('Dining_table', 4)]",3179.88,medium,-37.439240000000005,144.58898,1,2,Footscray,54.59,17.7615
+ORD0096636,12/06/2020,23:44:28,"[('Dining_table', 1), ('mattress', 3), ('side_table', 2)]",1622.79,small,-37.51238,145.89083,1,4,Sunshine,92.4,5.8905
+ORD0039036,18/01/2019,06:18:51,"[('bed', 2), ('Chair', 1), ('Dining_table', 2), ('Study_table', 2), ('side_table', 2), ('mattress', 4)]",3200.48,medium,-37.69742,144.93871000000001,0,3,St. Kilda,13.76,25.2819
+ORD0010417,20/02/2018,09:13:26,"[('wardrobe', 3), ('mattress', 4), ('Dining_table', 4)]",3168.44,small,-37.91789,144.84242,0,2,Footscray,18.0,17.2845
+ORD0039414,31/10/2021,15:40:30,"[('sofa', 3), ('Dining_table', 1), ('bed', 4), ('wardrobe', 4), ('Study_table', 2), ('side_table', 4), ('Chair', 1), ('mattress', 1)]",4687.48,large,-38.10733,145.45578,0,4,Sunshine,57.76,23.329500000000003
+ORD0050394,25/08/2021,08:58:52,"[('Study_table', 2), ('mattress', 3), ('Chair', 2)]",1735.71,small,-37.979820000000004,144.76315,1,2,Footscray,27.77,18.1485
+ORD0000986,19/07/2018,01:32:54,"[('Chair', 2), ('bed', 1), ('Study_table', 2), ('wardrobe', 1), ('Dining_table', 2)]",1205.34,medium,-37.73744,144.68597,0,2,Footscray,28.35,18.418500000000005
+ORD0001081,26/10/2020,19:07:42,"[('Dining_table', 1), ('side_table', 2), ('bed', 3)]",1355.22,small,-38.32618,144.78346000000002,1,2,Footscray,60.32,18.445500000000006
+ORD0002695,31/12/2021,12:38:45,"[('wardrobe', 1), ('mattress', 4), ('Chair', 1), ('sofa', 2), ('side_table', 4)]",3134.34,medium,-38.05055,144.93153,1,2,Footscray,27.33,17.797500000000007
+ORD0035519,14/08/2020,15:01:24,"[('Study_table', 1), ('bed', 1), ('Dining_table', 1), ('Chair', 1), ('wardrobe', 2), ('side_table', 2)]",1316.41,medium,-38.15193,145.08938,1,4,Sunshine,40.7,6.988500000000001
+ORD0095759,23/11/2020,15:03:06,"[('mattress', 1), ('sofa', 1), ('wardrobe', 4), ('Study_table', 4), ('Dining_table', 4), ('Chair', 3), ('bed', 3), ('side_table', 4)]",4277.64,large,-38.10398,145.89808,1,4,Sunshine,92.25,6.0345
+ORD0038374,25/11/2019,14:07:25,"[('wardrobe', 1), ('Study_table', 3), ('side_table', 3)]",647.74,small,-38.12637,145.17595,0,4,Sunshine,41.76,6.8355000000000015
+ORD0095241,24/05/2018,19:48:19,"[('side_table', 2), ('Chair', 3), ('mattress', 4), ('wardrobe', 4), ('Dining_table', 3)]",3708.3,medium,-38.05535,145.75226,0,4,Sunshine,78.4,6.3855
+ORD0087650,19/05/2019,12:34:46,"[('side_table', 2), ('Chair', 4), ('Study_table', 4), ('bed', 4), ('mattress', 3)]",3685.67,medium,-38.179759999999995,145.85012,1,4,Sunshine,91.7,7.0965
+ORD0089329,26/06/2021,05:37:10,"[('sofa', 1), ('wardrobe', 4), ('bed', 1)]",1849.09,small,-38.001490000000004,146.15784,0,4,Sunshine,111.24,6.3315
+ORD0027266,16/01/2018,13:52:36,"[('Study_table', 1), ('wardrobe', 2), ('mattress', 2), ('side_table', 3), ('bed', 3), ('Chair', 2), ('sofa', 2)]",3731.04,large,-37.503190000000004,145.65984,0,4,Sunshine,74.29,5.440500000000001
+ORD0063604,29/12/2020,02:15:20,"[('bed', 4), ('Chair', 4), ('Study_table', 3), ('mattress', 1), ('side_table', 2), ('sofa', 2), ('wardrobe', 3), ('Dining_table', 1)]",4305.76,large,-37.57848,145.63474,0,4,Sunshine,68.71,6.0165000000000015
+ORD0051896,11/11/2021,17:02:58,"[('Chair', 3), ('sofa', 2), ('Study_table', 3), ('mattress', 2)]",2104.77,small,-37.54508,145.68993999999998,0,4,Sunshine,74.64,6.2685
+ORD0044932,22/07/2019,00:17:33,"[('side_table', 3), ('sofa', 1), ('bed', 3), ('Chair', 4)]",1991.9,small,-37.52919,145.7772,1,4,Sunshine,82.41,6.0255
+ORD0017204,03/03/2019,00:13:29,"[('sofa', 4), ('Dining_table', 2), ('bed', 1), ('Chair', 2)]",2137.4,small,-38.414809999999996,145.72198,1,4,Sunshine,97.39,6.5385
+ORD0092451,02/10/2020,00:19:18,"[('Dining_table', 3), ('wardrobe', 2), ('bed', 4)]",2420.2,small,-37.52375,145.34264,0,4,Sunshine,49.71,6.772500000000001
+ORD0034836,28/06/2018,04:18:25,"[('side_table', 4), ('sofa', 3), ('Study_table', 1), ('bed', 4), ('mattress', 2)]",3760.16,medium,-38.33818,145.36468,0,4,Sunshine,70.5,34.8735
+ORD0099429,09/04/2021,00:37:09,"[('Dining_table', 3), ('bed', 1), ('sofa', 2), ('wardrobe', 4)]",2517.26,small,-37.572990000000004,145.51211999999998,1,4,Sunshine,59.15,6.4575
+ORD0086064,08/03/2018,04:48:54,"[('bed', 3), ('sofa', 1), ('wardrobe', 2)]",2049.09,small,-38.29489,145.89502,0,4,Sunshine,101.32,6.6735
+ORD0085564,30/08/2019,06:28:09,"[('sofa', 4), ('Study_table', 2), ('wardrobe', 2), ('Chair', 3), ('bed', 3), ('side_table', 2)]",3579.04,medium,-38.30308,144.66636,1,2,Footscray,61.93,18.5895
+ORD0092492,21/04/2019,04:36:43,"[('Dining_table', 2), ('wardrobe', 4), ('bed', 4), ('Chair', 3), ('sofa', 3), ('Study_table', 1), ('mattress', 1), ('side_table', 3)]",4853.5,large,-37.55903,145.34624,0,4,Sunshine,47.51,6.844500000000001
+ORD0044468,06/12/2019,12:14:45,"[('side_table', 3), ('Chair', 2), ('sofa', 4), ('Dining_table', 2), ('wardrobe', 3), ('bed', 1)]",3133.01,medium,-37.657140000000005,144.91023,1,3,St. Kilda,18.79,24.1029
+ORD0039564,13/05/2018,07:42:31,"[('bed', 3), ('sofa', 2), ('side_table', 4)]",2024.54,small,-37.42138,144.47626,1,2,Footscray,62.9,19.1115
+ORD0007817,11/08/2018,07:59:27,"[('Dining_table', 2), ('mattress', 2), ('sofa', 2)]",1840.32,small,-37.898720000000004,145.19106000000002,1,4,Sunshine,26.23,7.1055
+ORD0061201,15/11/2019,20:49:36,"[('sofa', 3), ('Chair', 3), ('Dining_table', 1), ('Study_table', 1), ('mattress', 4)]",3352.06,medium,-37.53154,144.56922,0,2,Footscray,48.63,18.661500000000004
+ORD0081279,25/05/2018,10:53:39,"[('bed', 2), ('Dining_table', 3), ('Study_table', 2), ('mattress', 3), ('Chair', 3), ('wardrobe', 1)]",3199.35,medium,-38.12549,145.55906000000002,0,4,Sunshine,66.45,6.7275
+ORD0021505,31/08/2019,01:11:32,"[('Dining_table', 2), ('Study_table', 3), ('side_table', 4), ('Chair', 2)]",813.29,small,-37.85668,145.64131,1,4,Sunshine,64.18,7.3035
+ORD0030308,15/03/2021,15:41:23,"[('Chair', 4), ('side_table', 1), ('sofa', 1), ('wardrobe', 4), ('mattress', 3)]",3287.25,medium,-37.57922,145.28768,0,4,Sunshine,42.05,6.7275
+ORD0026563,06/02/2019,22:18:58,"[('Study_table', 2), ('side_table', 4), ('wardrobe', 4), ('Chair', 3)]",1739.06,small,-38.47996,145.46247,0,4,Sunshine,88.34,5.791500000000001
+ORD0031734,06/01/2020,14:28:07,"[('bed', 1), ('Dining_table', 1), ('wardrobe', 4), ('sofa', 1), ('mattress', 2), ('Study_table', 1), ('side_table', 2)]",3072.76,large,-37.90688,145.91991000000002,1,4,Sunshine,89.05,5.314500000000002
+ORD0081379,10/01/2019,18:39:36,"[('mattress', 3), ('sofa', 1), ('wardrobe', 2), ('Chair', 4), ('Study_table', 1)]",2745.45,medium,-37.51599,145.09079,0,4,Sunshine,36.62,5.773500000000001
+ORD0098323,14/03/2019,10:54:16,"[('Dining_table', 2), ('mattress', 2), ('Chair', 2), ('bed', 1), ('Study_table', 1), ('side_table', 4)]",1993.45,medium,-38.11353,146.03342,1,4,Sunshine,103.77,6.0615000000000006
+ORD0095175,31/03/2021,19:52:35,"[('sofa', 3), ('Dining_table', 1), ('wardrobe', 2), ('Chair', 1), ('Study_table', 1)]",1853.06,medium,-37.61258,145.76158,1,4,Sunshine,77.96,7.213500000000002
+ORD0063654,27/03/2020,18:46:27,"[('Study_table', 1), ('mattress', 3), ('bed', 1), ('Dining_table', 3), ('wardrobe', 3), ('sofa', 4), ('Chair', 1), ('side_table', 4)]",4688.64,large,-37.44829,144.97672,0,0,Clayton,41.18,17.424000000000003
+ORD0018819,14/02/2018,04:39:16,"[('Chair', 4), ('mattress', 2), ('side_table', 2), ('Dining_table', 3), ('bed', 1), ('wardrobe', 2), ('sofa', 4), ('Study_table', 4)]",4319.28,large,-38.08578,144.91275,1,2,Footscray,31.51,17.266500000000004
+ORD0033803,29/11/2019,13:08:56,"[('mattress', 4), ('side_table', 4), ('Study_table', 1), ('bed', 1), ('wardrobe', 3), ('Dining_table', 2)]",3603.03,medium,-38.37777,144.51851000000002,0,2,Footscray,75.67,17.518500000000003
+ORD0026786,08/12/2021,21:22:51,"[('mattress', 3), ('wardrobe', 3), ('bed', 4), ('Dining_table', 2), ('side_table', 1), ('Chair', 4), ('Study_table', 1), ('sofa', 4)]",5842.59,large,-38.114329999999995,145.65266,1,4,Sunshine,73.0,6.7635000000000005
+ORD0044456,16/12/2019,01:43:10,"[('Chair', 2), ('Study_table', 1), ('sofa', 4), ('wardrobe', 1), ('bed', 3), ('mattress', 1), ('side_table', 3)]",3656.99,large,-38.37334,144.50026,0,2,Footscray,76.16,17.4375
+ORD0035418,01/10/2019,03:25:37,"[('wardrobe', 3), ('sofa', 1), ('Chair', 3), ('mattress', 2), ('side_table', 1), ('Dining_table', 3), ('bed', 3), ('Study_table', 3)]",4135.43,large,-38.24756,146.0675,1,4,Sunshine,112.09,5.8725000000000005
+ORD0056883,22/12/2021,08:26:09,"[('sofa', 2), ('Study_table', 4), ('Chair', 3), ('side_table', 4)]",1434.34,small,-38.11092,144.6846,0,2,Footscray,43.14,17.860500000000005
+ORD0007176,29/07/2020,19:18:41,"[('Dining_table', 3), ('sofa', 4), ('wardrobe', 4)]",2814.32,small,-37.88192,146.09228000000002,0,4,Sunshine,103.87,6.7635000000000005
+ORD0033471,14/11/2021,16:55:58,"[('Chair', 1), ('Study_table', 2), ('wardrobe', 2), ('sofa', 3), ('bed', 1), ('mattress', 3), ('Dining_table', 4), ('side_table', 4)]",4248.78,large,-37.498509999999996,146.18825,1,4,Sunshine,117.64,6.8085
+ORD0099256,29/07/2021,10:42:26,"[('sofa', 1), ('Dining_table', 4), ('mattress', 3), ('bed', 4), ('Chair', 4), ('wardrobe', 4), ('Study_table', 2), ('side_table', 1)]",5397.15,large,-38.415009999999995,144.67401999999998,0,2,Footscray,72.91,17.1045
+ORD0076237,20/12/2019,15:42:48,"[('wardrobe', 4), ('Dining_table', 1), ('Study_table', 3), ('Chair', 1), ('mattress', 4), ('side_table', 2)]",3526.75,medium,-38.31542,144.62448,0,2,Footscray,64.9,16.933500000000002
+ORD0061384,19/08/2019,01:12:07,"[('mattress', 1), ('Chair', 1), ('wardrobe', 1), ('Dining_table', 2), ('Study_table', 4), ('bed', 4)]",2876.99,medium,-37.908359999999995,144.48528000000002,1,2,Footscray,46.09,17.797500000000007
+ORD0066398,05/10/2020,00:38:43,"[('bed', 1), ('side_table', 3), ('mattress', 3), ('Chair', 2), ('sofa', 4), ('Dining_table', 1), ('wardrobe', 4), ('Study_table', 4)]",5006.66,large,-38.05131,145.19491000000002,1,4,Sunshine,36.23,6.4935
+ORD0079199,17/02/2021,08:25:21,"[('Study_table', 1), ('Chair', 1), ('Dining_table', 3), ('sofa', 1), ('mattress', 1), ('side_table', 1), ('wardrobe', 1)]",1632.34,large,-37.43849,144.87325,1,0,Clayton,43.11,15.066000000000004
